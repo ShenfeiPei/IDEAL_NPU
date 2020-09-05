@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1599212524 source:d:\project\eebc\ccode\eebc.cpp
+	"EEBC.h"
+
+1599212549 d:\project\eebc\ccode\eebc.h
+	<iostream>
+	<algorithm>
+	<fstream>
+	<stdlib.h>
+	<vector>
+	<ctime>
+	"my.h"
+	"Keep_order.h"
+
+1599212676 d:\project\eebc\ccode\my.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<algorithm>
+	<list>
+	<set>
+	<map>
+	<ctime>
+	<math.h>
+	<limits.h>
+	<omp.h>
+	<vector>
+
+1599212560 d:\project\eebc\ccode\keep_order.h
+
+1599212565 source:d:\project\eebc\ccode\keep_order.cpp
+	<algorithm>
+	<vector>
+	"my.h"
+	"Keep_order.h"
+
+1599212739 source:d:\project\eebc\ccode\main.cpp
+	<iostream>
+	"EEBC.h"
+	"my.h"
+
+1599212649 source:d:\project\eebc\ccode\my.cpp
+	"my.h"
+

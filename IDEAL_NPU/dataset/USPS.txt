@@ -1,0 +1,7 @@
+dataname: USPS
+url: http://www.cad.zju.edu.cn/home/dengcai/Data/USPS/USPS.mat
+url: https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#usps
+这两个数据是一样的，前者是整理好的mat格式，后者是txt dim:value格式
+
+X (double): 9298 x 256, 256 = 16*16, colmajor
+Y (int32): 9298
